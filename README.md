@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hélia
+- 👀 I’m interested in kubernetes, docker , CICD, and devops in general.
+- 🌱 I’m currently trying to improve my python skills in a hope to become a python developer.
